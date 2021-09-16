@@ -32,9 +32,9 @@
       <Version>4.1.1</Version>
     </PackageReference>
     <PackageReference Include="MahApps.Metro">
-      <Version>2.4.7</Version>
-    </PackageReference>
-    <PackageReference Include="Microsoft.Azure.Common">
+	  <Version>1.6.5</Version>
+	</PackageReference>
+	  <PackageReference Include="Microsoft.Azure.Common">
       <Version>2.2.1</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.Azure.KeyVault">
